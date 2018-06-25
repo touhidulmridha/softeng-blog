@@ -14,7 +14,7 @@ tags:
     - Open source
 teaser:
     info: Your application should not be open but your source code can (should) be
-    image: minh_ha/ai_robot.jpg
+    image: rahul_verma/vault.jpg
 header:
     version: small
     title: Software Engineering Blog
